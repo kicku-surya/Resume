@@ -1,0 +1,11 @@
+Project# 1
+	Project Name	             : Clinical Services
+	Client	: DBS
+Roles & Responsibilities:
+1	Infrastructure creation in Azure Cloud through Automation.
+2	Worked on terraform back-end state file storage.
+3	Using Ansible Configuration management tool, to automate repetitive tasks, quickly deploy critical applications, and proactively manage change.
+4	Creating Custom Docker images using Docker file.
+5	Managing VPC, Sub nets, Configuring the Inbound and outbound rules for Network Security groups.
+6	Involved into Agile Meetings and attend daily standup calls.
+
