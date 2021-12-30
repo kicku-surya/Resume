@@ -1,0 +1,12 @@
+Project# 2
+	Project Name	: Insurance Services
+	Client	: Chubb
+Roles & Responsibilities:
+1	Perform deployments to multiple environments like Dev, QA, and UAT environments.
+2	Creating and Managing infrastructure for Developers, testers through Automation.
+3	Creating playbooks in Ansible for configuration and Deployment activities. 
+4	Automating AWS cloud deployments using Ansible.
+5	Expertise in Amazon Web Services EC2, VPC, ELB, Route53, Autoscaling, S3, IAM.
+6	Managing regular tasks by automating them using Ansible and Cronjobs.
+7	Creating and managing Development and Continuous Integration Environments using AWS & implementing and supporting fully automated Continuous Integration and Continuous Delivery processes.
+
