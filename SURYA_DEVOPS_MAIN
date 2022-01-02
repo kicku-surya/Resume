@@ -1,17 +1,16 @@
 PROFILE SUMMARY:
-                                          Having 3.4 years of total IT experience in all aspects of SDLC, I have successful track record on Software Configuration Management, Experience in software engineering practices that include in continuous integration, continuous management along with containerization and deployment management
+                                          Having 3.4 years of total IT experience in DevOps domain with skills Windows, Linux, Azure, AWS, Azure DevOps, Jenkins, GIT, Terraform, Docker and Kubernetes.
 PROFESSIONAL SUMMARY:
 	Experience in Cloud-DevOps role, implementing Cloud Engineer strategy DevOps experience in Windows and Linux Environment.
+	Experience in CI/CD pipeline with Azure DevOps and Jenkins.
 	Hands on experience In Microsoft service like Azure VM and Azure Backup services.
-	Having experience on Azure DevOps like Pipelines, Repos, Artifacts and Boards.
+	Having experience on Azure DevOps like Pipelines, Repos, Artefacts and Boards.
 	Experience in Traffic Manager, Load Balancers, and App gateways.
 	Strong experience in version control tools like Git, GitHub.
 	Good Experience in creating and maintaining the source code with Branching Strategy in GitHub.
 	Set the branch policies once completed the development will lock the release branches and avoid the last moment commits.
-	Administered and Implemented CI tool Azure Devops for automated builds. 
-	Creating and Configuring web-apps with Build Pipeline's and Release Pipelines.
-	Good experience using Maven for building java-based web applications.
-	Having good knowledge on configuration management tool of Ansible.
+	Administered and Implemented CI tool Azure DevOps for automated builds. 
+	Creating and configuring web-apps with Build Pipeline's and Release Pipelines.
 	Experience on Containerization tool like Docker in creating Docker files.
 	Experienced in building and maintaining Docker infrastructure for SOA applications in agile environment. 
 	Knowledge on Docker Volumes and Docker Networking.
@@ -19,6 +18,7 @@ PROFESSIONAL SUMMARY:
 	Provision resources by using Terraform.
 	Hands on experience In AWS services like EC2, S3, and VPC.
 	Good experience in Monitoring tool like Nagios.
+
 
 TECHNICAL SKILLS:
 Operating System	: Windows and Linux
@@ -30,8 +30,7 @@ Monitoring Tool	: Nagios
 PROFESSIONAL EXPERIENCE:
 	Working for Apple Infotech Pvt Ltd as a DevOps Consultant from September 2018 to till now.
 Project# 1
-Project Name 	: Clinical Services
-Client	: DBS
+Client	: Chubb
 Roles & Responsibilities:
 	Infrastructure creation in Azure Cloud through Automation.
 	Worked on terraform back-end state file storage.
@@ -49,10 +48,11 @@ Roles & Responsibilities:
 EDUCATION DETAILS:
 	B.B.A Aditya Degree College (2015-18).
 PERSONAL DETAILS:
-Name	: V Sri Suya Teja
+	
+Name	: V Sri Surya Teja
 Marital Status	: Single
 Father Name	: V Dora Veera Swamy
 DOB	: 16-May-1997
-Languages 	: Telugu, English
+Languages 	: Telugu, Hindi & English
 Location	: Hyderbad
 Nationality	: Indian
